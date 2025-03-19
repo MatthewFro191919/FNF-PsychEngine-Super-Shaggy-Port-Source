@@ -53,7 +53,7 @@ class CaveStage extends BaseStage
 		ceil.setPosition(0, -700);
 		ceil.scrollFactor.set(0.5, 1 - 0.1);
 		ceil.scrollX * 0.5;
-		ceil.scrollY * 1 - ceil.sourceSizeY * 0.1;
+		ceil.scrollY * 1 - 0.1;
 		add(ceil);
 	}
 }
