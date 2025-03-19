@@ -9,8 +9,8 @@ class CaveStage extends BaseStage
 	{
 		var bg:FlxTiledSprite = new FlxTiledSprite('cavebg/bg', true, false);
 		bg.setPosition(0, 300);
-		bg.width * 1:
-		bg.height * 1,
+		bg.width * 1;
+		bg.height * 1;
 		bg.scrollFactor.set(0.5, 0.5);
 		bg.scrollX * 0.3;
 		bg.scrollY * 0.3;
