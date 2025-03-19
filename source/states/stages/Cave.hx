@@ -3,7 +3,7 @@ package states.stages;
 import states.stages.objects.*;
 import flixel.addons.display.FlxTiledSprite;
 
-class CaveStage extends BaseStage
+class Cave extends BaseStage
 {
 	override function create()
 	{
